@@ -1,4 +1,137 @@
 ```<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Práctica1.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Preinscripción curso 2022-2023</h1>
+    <p1> El presente documento certifica la preinscripcion para la matrícula del curso 2022-2023</p1>
+    <form>
+    <fieldset>
+        <legend> Rellene las opciones siguientes </legend>
+         <table>
+            <tr>
+                <td> Nombre 
+                 <input type="text"> 
+
+                 Apellidos 
+                <input type="text"> </td>
+
+                
+            </tr>
+            <tr>
+                <td><textarea type="" name="textbox" cols="56" rows="7" id="textbox"></textarea></td>
+            </tr>
+            <tr>
+                <td> Elige una fecha 
+                 <input type="date"> </td>
+            </tr>
+                <tr>
+                <td> Elige una hora 
+                <input type="time"> </td>
+
+            </tr>
+            <tr>
+                <td>
+                <select name="" id="">
+                <option value="LENGUAJE DE MARCAS">LENGUAJE DE MARCAS</option>
+                <option value="APLICACIONES WEB">APLICACIONES WEB</option>
+                <option value="ENTORNOS DE DESARROLLO">ENTORNOS DE DESARROLLO</option>
+                <option value="BASES DE DATOS">BASES DE DATOS</option></select>
+                <option hidden selected>LENGUAJE DE MARCAS</option></select>
+                </select>
+            </td>
+            </tr>
+            
+         </table>
+</fieldset>
+<fieldset> 
+    <legend> Preferencias </legend>
+    <table>
+    
+    <tr>
+        <td>
+        <label> Elige una fecha </label>
+            <input type="date"> 
+        </td>
+    </tr>
+    
+    <tr> 
+        <td>
+        <label> Elige una hora 
+        <input type="time"> </label>
+     </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <input type="checkbox"> Lenguaje de Marcas</td>
+    </tr>
+    
+    <tr>
+        <td>
+            <input type="checkbox"> Aplicaciones Web</td>
+    </tr>
+    <tr>
+        <td>
+            <input type="checkbox"> Entornos de desarrollo</td>
+    </tr>
+    <tr>
+        <td>
+            <input type="checkbox"> Bases de datos</td>
+    </tr>
+   <tr>
+    <td>
+    <select name="text2" id="">
+    <option value="Monitor LED">Monitor LED</option>
+    <option value="SSD"> SSD </option>
+    <option hidden selected>Hardware</option></select> </td>
+    </tr>
+    <tr>
+        <td>
+           <input name="lenguaje" type="radio" value="Java">
+           <label>Java</label>
+        
+        <input name="lenguaje" type="radio" value="Python">
+           <label>Python</label>
+        <input name ="lenguaje" type="radio" value="HTML"> 
+        
+           <label>HTML</label>
+        
+        <input name="lenguaje" type="radio" value="JavaScript">
+           <label>JavaScript</label>
+        
+        <input name="lenguaje" type="radio" value="CSS">
+           <label>CSS</label>
+       
+    </td>
+    </tr>
+    <tr>
+        <td>Instituto
+            <input type="text">
+        </td>
+    </tr>
+    <tr>
+        <td>Estudios Elegidos
+            <input type="text">
+        </td>
+    </tr>
+</table>
+</fieldset>
+<tr>
+     <td> 
+        <input type="submit" value="enviar">
+        <input type="reset" value="Borrar datos del formulario">
+     </td>
+</tr>
+</form>
+</body>
+</html>
+<!DOCTYPE html>
 <html>
 <head>
 <link rel='stylesheet' type='text/css' href='merged.css'>
@@ -1321,7 +1454,7 @@ Este mensaje es de color blanco sobre fondo rojo
 	Larry Page y Sergey Brin comenzaron Google como un proyecto universitario en enero de 1996 cuando ambos eran estudiantes de posgrado en ciencias de la computación en la Universidad de Stanford. El nombre original del buscador era BackRub, en 1997 los fundadores deciden cambiar el nombre a Google inspirados por el término matemático «gúgol» que se refiere al número 10 elevado a la potencia de 100, en referencia a su objetivo de organizar la enorme cantidad de información en la Web. Page y Brin fundan, el 4 de septiembre de 1998, la compañía Google Inc., que estrena en Internet su motor de búsqueda el 27 de septiembre siguiente (considerada la fecha de aniversario). Contaban con un armario lleno de servidores (unos 80 procesadores), y dos routers HP. Este motor de búsqueda superó al otro más popular de la época, AltaVista, que había sido creado en 1995. En el 2000 Google presentó AdWords, su sistema de publicidad en línea y la llamada Barra Google.
 	</p>
 	<p>
-	En febrero de 2001, Google compra el servicio de debate Usenet Deja News y lo transforma en Google Grupos. En marzo del mismo año Eric Schmidt es nombrado presidente de la junta directiva. En julio de 2001 lanza su servicio de búsqueda de imágenes. En febrero de 2002 lanza Google Search Appliance. En mayo lanza Google Labs que cerrará 9 años más tarde. En septiembre se lanza Google Noticias. En diciembre del mismo año se lanza el servicio de búsqueda de productos llamado Froogle, ahora denominado Google Products. En febrero de 2003 Google adquiere Pyra Labs y con ello el servicio de creación de blogs Blogger. En abril se presenta Google Grants, un servicio de publicidad gratuito para organizaciones sin ánimo de lucro. En diciembre de ese año se lanza Google Print, posteriormente Google Libros.
+	En febrero de 2001, Google compra el servicio de debat e Usenet Deja News y lo transforma en Google Grupos. En marzo del mismo año Eric Schmidt es nombrado presidente de la junta directiva. En julio de 2001 lanza su servicio de búsqueda de imágenes. En febrero de 2002 lanza Google Search Appliance. En mayo lanza Google Labs que cerrará 9 años más tarde. En septiembre se lanza Google Noticias. En diciembre del mismo año se lanza el servicio de búsqueda de productos llamado Froogle, ahora denominado Google Products. En febrero de 2003 Google adquiere Pyra Labs y con ello el servicio de creación de blogs Blogger. En abril se presenta Google Grants, un servicio de publicidad gratuito para organizaciones sin ánimo de lucro. En diciembre de ese año se lanza Google Print, posteriormente Google Libros.
 	</p>
 git a
 
