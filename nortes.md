@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
 <link rel='stylesheet' type='text/css' href='merged.css'>
@@ -1323,7 +1323,7 @@ Este mensaje es de color blanco sobre fondo rojo
 	<p>
 	En febrero de 2001, Google compra el servicio de debate Usenet Deja News y lo transforma en Google Grupos. En marzo del mismo año Eric Schmidt es nombrado presidente de la junta directiva. En julio de 2001 lanza su servicio de búsqueda de imágenes. En febrero de 2002 lanza Google Search Appliance. En mayo lanza Google Labs que cerrará 9 años más tarde. En septiembre se lanza Google Noticias. En diciembre del mismo año se lanza el servicio de búsqueda de productos llamado Froogle, ahora denominado Google Products. En febrero de 2003 Google adquiere Pyra Labs y con ello el servicio de creación de blogs Blogger. En abril se presenta Google Grants, un servicio de publicidad gratuito para organizaciones sin ánimo de lucro. En diciembre de ese año se lanza Google Print, posteriormente Google Libros.
 	</p>
-
+git a
 
 
 
@@ -1340,5 +1340,4 @@ Este mensaje es de color blanco sobre fondo rojo
 	<p>
 	En febrero de 2001, Google compra el servicio de debate Usenet Deja News y lo transforma en Google Grupos. En marzo del mismo año Eric Schmidt es nombrado presidente de la junta directiva. En julio de 2001 lanza su servicio de búsqueda de imágenes. En febrero de 2002 lanza Google Search Appliance. En mayo lanza Google Labs que cerrará 9 años más tarde. En septiembre se lanza Google Noticias. En diciembre del mismo año se lanza el servicio de búsqueda de productos llamado Froogle, ahora denominado Google Products. En febrero de 2003 Google adquiere Pyra Labs y con ello el servicio de creación de blogs Blogger. En abril se presenta Google Grants, un servicio de publicidad gratuito para organizaciones sin ánimo de lucro. En diciembre de ese año se lanza Google Print, posteriormente Google Libros.
 	</p>
-
-
+```
